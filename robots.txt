@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-o7fwus.nexopopular.com/sitemap.xml
